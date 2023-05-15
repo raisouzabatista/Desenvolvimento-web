@@ -1,0 +1,29 @@
+.colorir-fundo{
+    background-color: lavender;
+}
+
+header{
+    font-size: 18px;
+}
+
+#id-footer{
+    margin-right: 5%;
+}
+
+h1{ /* Seleção de elemento */
+    text-align: center;
+    text-decoration: underline;
+}
+
+#segundo{ /* Seleção de ID */
+    color: blue;
+    font-size: 20px;
+}
+
+.subtitulo{ /* Seleção de classe*/
+    font-weight: bold;
+}
+.central{
+    text-align: center;
+    justify-items: center;
+}
