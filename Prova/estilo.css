@@ -1,0 +1,29 @@
+img{
+    height: 180px;
+    width: 240px ;
+    border-radius: 10px;
+   border-style: solid;
+}
+body{
+    background-color: rgb(219, 144, 45);
+    text-align: center;
+}
+header{
+
+
+    margin: 0% auto;
+    height: 650px;
+    width: 400px;
+    background-color: rgb(71, 71, 68);
+    border-radius: 10px;
+    border-style: solid;
+  
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+h3{
+    color: orange;
+    font-size: 30px;
+}
