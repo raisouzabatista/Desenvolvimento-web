@@ -1,0 +1,19 @@
+<div>
+    <div>
+        <h2>Saldo: {{saldoAtual}}</h2>
+    </div>
+    <section></section>
+</div>
+
+<input type="number" id="quantia" [(ngModel)] = "quantia">
+
+
+<button mat-stroked-button color="accent" (click)="depositar()">
+    Depositar
+</button>
+<button mat-stroked-button color="accent" (click)="sacar()">
+Sacar
+</button>
+<br>
+<button routerLink="formulario"> Formulario</button>
+<button routerLink="dashboard"> dashboard </button>
